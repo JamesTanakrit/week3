@@ -1,4 +1,4 @@
-/*#include<stdio.h>
+#include<stdio.h>
 int main() 
 {
 	int x;
@@ -8,4 +8,4 @@ int main()
 		printf("*");
 	}
 	return 0;
-}*/
+}
